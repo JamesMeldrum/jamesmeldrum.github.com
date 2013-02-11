@@ -1,1 +1,1 @@
-JRM GitHUb site and Jekyll demo
+JRM GitHUb site and Jekyll demo.

@@ -18,3 +18,7 @@ h1 {
 span.panel {
 }
 
+ul.bulleted {
+  list-style:initial;
+  margin-left:40px;
+}
